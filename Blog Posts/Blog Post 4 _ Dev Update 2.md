@@ -1,0 +1,7 @@
+This period was primarily focused on refining the player character. I encountered a significant issue with the Animator component, which resulted in the character's animation glitching. The goal was to make the player character run, but despite the debug mode showing the animation switch, the character remained stuck in place, floating awkwardly.
+
+Resolving this issue required countless hours of troubleshooting. I scoured forums, watched tutorials, and experimented with different settings. Each failed attempt felt like a setback, but I was determined to find a solution. After several days of persistent effort, I finally managed to get the animation working correctly. Seeing the character run smoothly for the first time was a huge relief and a major breakthrough.
+
+Setting up the camera to follow the player was another significant task. This involved adjusting camera angles and writing movement scripts to create a dynamic and immersive experience. After experimenting with various configurations, I found a setup that worked well. The camera now tracks the player's movements seamlessly, adding a professional touch to the gameplay.
+
+Working on the camera angles was particularly interesting. I explored different perspectives and transitions to enhance the visual experience. This not only improved the overall aesthetics but also contributed to the gameplay mechanics. Certain camera angles made navigating obstacles easier, while others added a sense of challenge and urgency.

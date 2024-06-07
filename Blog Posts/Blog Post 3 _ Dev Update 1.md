@@ -1,0 +1,9 @@
+During this phase of development, I focused on creating three distinct scenes: Game, Main Menu, and Difficulties. Structuring the game with these scenes was essential for establishing a smooth user experience. Each scene required its own set of scripts and logic to ensure seamless navigation between them.
+
+Initially, I faced several challenges in setting up the scene transitions. The process involved writing numerous scripts, each handling different aspects of the scene changes. After several attempts and debugging sessions, I finally managed to achieve a fluid transition system. Seeing the game flow smoothly from the main menu to the game and then to the difficulty selection screen was incredibly satisfying.
+
+Creating the tiles was another major part of this period. I developed nine different tile types and integrated them into the game. These tiles spawn randomly, providing a unique map layout for each run. This randomness is crucial for maintaining player interest, as it prevents the gameplay from becoming repetitive. As I worked on the tiles, new ideas for additional features and mechanics began to emerge. Each new idea brought a burst of creativity and motivation.
+
+One significant challenge was optimizing the tile generation process. Initially, the game experienced noticeable lag when generating new tiles, especially with multiple objects on screen. To address this, I delved into Unity's optimization techniques, learning about object pooling and efficient rendering. This was a time-consuming process, but it proved invaluable in improving the game's performance.
+
+Another highlight was designing the user interface for the Main Menu and Difficulty selection screens. This task involved experimenting with various layouts and styles to create an intuitive and visually appealing interface. The feedback from friends who tested the game was positive, which was encouraging and validated my design choices.
